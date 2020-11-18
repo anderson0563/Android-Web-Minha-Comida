@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minha Comida</string>
+    <string name="titulo">Avalie seu pedido</string>
+    <string name="comida">O que você achou da comida?</string>
+    <string name="maisgostou">O que você mais gostou?</string>
+    <string name="atendimento">Atendimento</string>
+    <string name="sabor">Sabor</string>
+    <string name="pontualidade">Pontualidade</string>
+    <string name="tituloentrega">Você gostou da entrega?</string>
+    <string name="sim">Sim, gostei</string>
+    <string name="nao">Não, poderia melhorar</string>
+    <string name="depoimento">Depoimento</string>
+</resources>
